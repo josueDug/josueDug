@@ -1,0 +1,1 @@
+El proyecyo se trata de hacer un poster interactivo de en el cual se pueda dar una reaccion con algun sensor del aruduino esplora, sera una secuencia de 4 imagenes a las cuales se les designara un valor del potenciometro para que sean mostradas en la pantalla
